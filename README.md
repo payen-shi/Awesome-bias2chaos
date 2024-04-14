@@ -46,23 +46,9 @@ We welcome contributions to this repository to add more resources. Please submit
 
 This repository is largely based on the following paper:
 
-**[Large AI Models in Health Informatics:
-Applications, Challenges, and the Future](https://ieeexplore.ieee.org/document/10261199)**
+**[IMPPC](https://ieeexplore.ieee.org/document/10261199)**
 <br />
-Jianing Qiu,
-Lin Li,
-Jiankai Sun,
-Jiachuan Peng,
-Peilun Shi,
-Ruiyang Zhang,
-Yinzhao Dong,
-Kyle Lam,
-Frank P.-W. Lo,
-Bo Xiao,
-Wu Yuan,
-Ningli Wang,
-Dong Xu, and
-Benny Lo
+PPC
 <br />
 
 If you find this repository helpful, please consider citing:
