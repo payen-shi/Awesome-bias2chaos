@@ -71,13 +71,13 @@ If you find this repository helpful, please consider citing:
 
 ## Bias from AI 
 
-### Healthcare 
+### Nature 
 
 - ChiMed-GPT: A Chinese Medical Large Language Model with Full
 Training Regime and Better Alignment to Human Preferences [[Paper]](https://arxiv.org/pdf/2311.06025.pdf) [[Code]](https://github.com/synlp/ChiMed-GPT)
 
 
-### General Domain
+### Nature Medicine
 
 - Chatgpt: Optimizing language models for dialogue [[Blog]](https://openai.com/blog/chatgpt/)
 - LLaMA: Open and Efficient Foundation Language Models [[Paper]](https://arxiv.org/pdf/2302.13971.pdf)
@@ -85,7 +85,11 @@ Training Regime and Better Alignment to Human Preferences [[Paper]](https://arxi
 - PaLM: Scaling Language Modeling with Pathways [[Paper]](https://arxiv.org/pdf/2204.02311.pdf)
 
 
-## Large Vision Models
+### Nature Machine Intelligence
+
+
+### Nature Communication
+
 
 ### Healthcare Domain
 
