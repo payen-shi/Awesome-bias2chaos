@@ -65,6 +65,10 @@ If you find this repository helpful, please consider citing:
 
 ![](LAM_key_feature_summary.png)
 
+## Real X AI NOT Q AI
+- GPT-4V(ision): [[Paper]](https://cdn.openai.com/papers/GPTV_System_Card.pdf) [[Code]](https://openai.com/gpt-4)
+- Grok-1.5: [[Paper]](https://x.ai/blog/grok-1.5) [[Code]](https://x.ai/blog/grok-1.5)
+
 ## Bias from AI 
 
 ### Healthcare 
