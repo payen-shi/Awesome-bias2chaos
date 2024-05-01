@@ -48,13 +48,13 @@ If you find this repository helpful, please consider citing:
 - GPT-4V(ision): [[Paper]](https://cdn.openai.com/papers/GPTV_System_Card.pdf) [[Code]](https://openai.com/gpt-4)
 - Grok-1.5: [[Paper]](https://x.ai/blog/grok-1.5) [[Code]](https://x.ai/blog/grok-1.5)
 - Med-Gemini: [[Paper]](https://arxiv.org/pdf/2404.18416) [[Code]](--)
+- 
+- RETFound A foundation model for generalizable disease detection from retinal images [[Paper]](https://www.nature.com/articles/s41586-023-06555-x) [[Code]](https://github.com/rmaphoh/RETFound_MAE)
 
 ## Bias from AI 
 
 ### Nature 
 
-- ChiMed-GPT: A Chinese Medical Large Language Model with Full
-Training Regime and Better Alignment to Human Preferences [[Paper]](https://arxiv.org/pdf/2311.06025.pdf) [[Code]](https://github.com/synlp/ChiMed-GPT)
 
 
 ### Nature Medicine
