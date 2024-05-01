@@ -49,7 +49,7 @@ If you find this repository helpful, please consider citing:
 - Grok-1.5: [[Paper]](https://x.ai/blog/grok-1.5) [[Code]](https://x.ai/blog/grok-1.5)
 - Med-Gemini: [[Paper]](https://arxiv.org/pdf/2404.18416) [[Code]](--)
 - 
-- RETFound A foundation model for generalizable disease detection from retinal images [[Paper]](https://www.nature.com/articles/s41586-023-06555-x) [[Code]](https://github.com/rmaphoh/RETFound_MAE)
+- RETFound: [[Paper]](https://www.nature.com/articles/s41586-023-06555-x) [[Code]](https://github.com/rmaphoh/RETFound_MAE) A foundation model for generalizable disease detection from retinal images 
 
 ## Bias from AI 
 
