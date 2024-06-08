@@ -46,8 +46,8 @@ If you find this repository helpful, please consider citing:
 ## Large-scale Datasets in Biomedical and Health Informatics
 ### Open Source
 
-| Dataset                                                      | Description                                                  | Pub
-| ------------------------------------------------------------ | ------------------------------------------------------------ |------------------------------------------------------------
+| Dataset                                                      | Description    | Pub
+| ------------------------------------------------------------ | ---------------|--------------------------------------
 | [Big Fantastic Datasbase](https://bfd.mmseqs.com/)           | 2.1 B protein sequences, 393 B amino acids                   |
 | [Observed Antibody Space](https://opig.stats.ox.ac.uk/webapps/oas/) | 558 M antibody sequences                                     |
 | [RNAcentral](https://rnacentral.org/)                        | 34 M ncRNA sequences, 22 M secondary structure               |
