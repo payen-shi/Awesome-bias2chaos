@@ -43,6 +43,20 @@ If you find this repository helpful, please consider citing:
 ```
 
 ![](LAM_key_feature_summary.png)
+## Large-scale Datasets in Biomedical and Health Informatics
+### Open Source
+
+| Dataset                                                      | Description                                                  | Pub
+| ------------------------------------------------------------ | ------------------------------------------------------------ |------------------------------------------------------------
+| [Big Fantastic Datasbase](https://bfd.mmseqs.com/)           | 2.1 B protein sequences, 393 B amino acids                   |
+| [Observed Antibody Space](https://opig.stats.ox.ac.uk/webapps/oas/) | 558 M antibody sequences                                     |
+| [RNAcentral](https://rnacentral.org/)                        | 34 M ncRNA sequences, 22 M secondary structure               |
+| [ZINC20](https://zinc20.docking.org/)                        | 1.4B compounds from 310 catalogs from 150 companies          |
+| [MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.0.0/)  | 65K patients, 337K chest X-ray images and 227K radiology reports |
+| [MedMNIST v2](https://medmnist.com/)                         | 708K 2D medical images, 10K 3D medical images                |
+| [Medical Meadow](https://github.com/kbressem/medAlpaca)      | 1.5M data points containing a wide range of medical language processing tasks |
+| [Endo-FM database](https://github.com/med-air/Endo-FM)       | 33K endoscopic videos, up to 5M frames                       |
+| [SurgVLP database](https://github.com/CAMMA-public/SurgVLP)       | 25K laparoscopic video-text pairs from 1k surgical lecture videos |
 
 ## Real X AI NOT Q AI
 - GPT-4V(ision): [[Paper]](https://cdn.openai.com/papers/GPTV_System_Card.pdf) [[Code]](https://openai.com/gpt-4)
