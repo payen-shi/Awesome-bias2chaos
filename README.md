@@ -46,9 +46,9 @@ If you find this repository helpful, please consider citing:
 ## Large-scale Datasets in Biomedical and Health Informatics
 ### Open Source
 
-| Model                                                      | Domain    | Pub
+| Model                                                      | Domain    | Pub | Code
 | ------------------------------------------------------------ | ---------------|--------------------------------------
-| [RETFound](https://www.nature.com/articles/s41586-023-06555-x)           | https://github.com/rmaphoh/RETFound_MAE                   | Nature
+| [RETFound](https://www.nature.com/articles/s41586-023-06555-x)           | Ophalmology https://github.com/rmaphoh/RETFound_MAE                   | Nature
 | [Observed Antibody Space](https://opig.stats.ox.ac.uk/webapps/oas/) | 558 M antibody sequences                                     |
 | [RNAcentral](https://rnacentral.org/)                        | 34 M ncRNA sequences, 22 M secondary structure               |
 | [ZINC20](https://zinc20.docking.org/)                        | 1.4B compounds from 310 catalogs from 150 companies          |
